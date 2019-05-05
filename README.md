@@ -23,7 +23,7 @@ math topic Top 10 words:
 9. prove 
 10. set 
 
-cs topic words:  
+cs topic Top 10 words:  
 
 1. data 
 2. based 
