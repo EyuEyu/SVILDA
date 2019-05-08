@@ -36,7 +36,7 @@ cs topic Top 10 words:
 9. proposed 
 10. performance 
 
-Accuracy for math_cs classification: 0.8267670915411356 #unstable, not know why.
+Accuracy for math_cs classification: 82.96%±2.1%
 
 
 
